@@ -21,7 +21,7 @@ body{
 /* Navigation*/
 
 nav.r-nav{
-    background:transparent;
+    background:rgba(0,0,0,0);
     padding:20px 0;
     transition: .5s all;
 
@@ -68,4 +68,15 @@ nav.stickyadd .navbar-nav .nav-link{
 
 nav.stickadd .hamburger{
     color:#000;
+}
+
+/* header section */
+
+header{
+    height:100vh;
+    width:100%;
+    background-image:url(../images/background.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
 }
