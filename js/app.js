@@ -49,6 +49,12 @@ window.addEventListener('scroll',()=>{
     }
 })
 
+//Owl cCarousel
+
+$(".owl-carousel").owlCarousel();
+
+
+
 })
 
 

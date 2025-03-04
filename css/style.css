@@ -201,4 +201,10 @@ header{
     margin:100px;
 }
 
+/*Testimony*/
+
+.testimony-class .test-item{
+    max-width:500px;
+    margin:50px auto;
+}
 
