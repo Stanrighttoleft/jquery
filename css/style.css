@@ -159,10 +159,13 @@ header{
 }
 
 .porgress-bar{
-    background-color:#EE8683 !important;
+    background-color:#d6706c !important;
+    color:#e8aaa8 !important;
 }
 .exp-class label{
     font-size:20px;
     margin:10px;
 }
+
+
 
