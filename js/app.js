@@ -51,7 +51,14 @@ window.addEventListener('scroll',()=>{
 
 //Owl cCarousel
 
-$(".owl-carousel").owlCarousel();
+$(".owl-carousel").owlCarousel({
+    loop:true,
+    autoplay:true,
+    autoplaytimeout:4000,
+    items:1
+
+
+});
 
 
 

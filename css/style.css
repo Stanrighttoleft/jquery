@@ -204,7 +204,20 @@ header{
 /*Testimony*/
 
 .testimony-class .test-item{
-    max-width:500px;
+    max-width:400px;
+    
     margin:50px auto;
 }
+.test-item img{
+    max-height:300px;
+    max-width:300px;
+    object-fit:cover;
+}
 
+.testimony-class .test-item i{
+    color:grey;
+}
+
+.test-item p.test-name{
+    font-size:11px;
+}
