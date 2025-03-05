@@ -47,7 +47,13 @@ window.addEventListener('scroll',()=>{
         p[5].setAttribute("style","width:0%;background-color:#d6706c;transition:1s all");
 
     }
-})
+});
+
+//filterizr
+
+var filterizd= $('.filter-container').filterizr({
+    animationDuration:.5,
+});
 
 //Owl cCarousel
 
