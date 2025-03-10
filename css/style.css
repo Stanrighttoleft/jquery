@@ -222,6 +222,13 @@ header{
     font-size:11px;
 }
 
+/*workd*/
+
+.work .card-warpper{
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
 .cards img{
     height:200px;
     width:200px;
