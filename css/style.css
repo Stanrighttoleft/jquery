@@ -13,7 +13,7 @@ p{
     font-family:'Nunito',sans-serif;
     font-size:20px;
     line-height:30px;
-    color:#6c757d;
+    color:#636567;
 }
 .r-p{
     padding-top:80px;
@@ -245,4 +245,30 @@ header{
 .contact .r-icon{
     font-size:50px;
     text-align:center;
+}
+
+/*footer*/
+
+footer{
+    height:200px;
+    background-color:#333333;
+
+}
+footer .r-icon a{
+    font-size:20px;
+    color:#848484;
+    padding:10px;
+    border:1px solid #848484;
+    border-radius:50%;
+
+}
+
+footer .r-icon a:hover{
+    border:1px solid #eee;
+    color:#eee;
+    transition:0.5s all;    
+}
+
+footer p{
+    color:#fff;
 }
