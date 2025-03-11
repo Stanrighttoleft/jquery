@@ -239,3 +239,10 @@ header{
 .r-btn{
     margin-bottom :5px;
 }
+
+/*contact us*/
+
+.contact .r-icon{
+    font-size:50px;
+    text-align:center;
+}
