@@ -95,6 +95,7 @@ p{
    
 /* Navigation*/
 
+
 nav.r-nav{
     background:rgba(0,0,0,0);
     padding:20px 0;
@@ -147,6 +148,9 @@ nav.stickyadd .hamburger{
 
 /* header section */
 
+.animate__animated.animate__fadeInUp {
+    --animate-duration: 5s;
+}
 header{
     height:100vh;
     width:100%;
